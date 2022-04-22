@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaycezf&show_icons=true)](https://github.com/jaycezf/jaycezf)
+
 ### Hi there 👋
 
 <!--
