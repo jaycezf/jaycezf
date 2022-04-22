@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ### 具体上
 - 🔭 最近忙于上班，下班。。。
 - 🌱 正在使用springboot，学习springcloud、vue和其他
-- 😄 喜欢研究下载一下奇奇怪怪的软件
+- 😄 喜欢研究下载一些奇奇怪怪的软件
 
