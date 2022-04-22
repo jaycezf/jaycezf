@@ -1,6 +1,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaycezf&show_icons=true)](https://github.com/jaycezf/jaycezf)
 
+![](http://profile-counter.glitch.me/jaycezf/count.svg)  
+
 ### Hi there 👋
+
 
 <!--
 **jaycezf/jaycezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
